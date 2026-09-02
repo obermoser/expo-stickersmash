@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "86082874-5a52-4c07-aab7-cd2ef4e531d9"
+      }
+    },
+    "owner": "obermosermedia"
   }
 }
